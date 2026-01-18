@@ -180,9 +180,4 @@ docker-compose version
 
 **Ram Kumar Prajapati**
 
----
 
-If you want, I can also:
-
-* format this for GitHub nicely, or
-* add Jenkins pipeline examples in this README.
