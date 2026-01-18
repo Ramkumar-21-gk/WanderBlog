@@ -1,6 +1,5 @@
 # DevSecOps Setup Guide (Jenkins + Docker + SonarQube + Trivy)
 
-This README documents the complete setup performed on an Ubuntu EC2 instance for a CI/CD and security scanning environment.
 ---
 
 ### Jenkins Pipeline Result
